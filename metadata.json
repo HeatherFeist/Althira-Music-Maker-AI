@@ -1,0 +1,5 @@
+{
+  "name": "AI Song Generator",
+  "description": "An AI-powered music app to generate original songs. Use natural language prompts, genre and style presets, and your own lyrics to create your next hit.",
+  "requestFramePermissions": []
+}
